@@ -1,12 +1,17 @@
 {
-    "name":     "TestGame",
+    "name":     "PhaserCoffeescript",
     "version":  "0.0.1",
-    "description": "A test game",
+    "description": "A simple skeleton for Phaser projects, using coffeescript",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/tchannel/phaser-coffeescript"
+    },
     "dependencies": {
         "photonstorm/phaser":"git://github.com/photonstorm/phaser#1.0.5"  
     },
     "devDependencies": {
-        "coffee-script": "1.6.x"
+        "coffee-script": "1.6.x",
+        "connect":  "2.9.x"
     }
 
 }
