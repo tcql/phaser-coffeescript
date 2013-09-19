@@ -1,0 +1,12 @@
+{
+    "name":     "TestGame",
+    "version":  "0.0.1",
+    "description": "A test game",
+    "dependencies": {
+        "photonstorm/phaser":"git://github.com/photonstorm/phaser#1.0.5"  
+    },
+    "devDependencies": {
+        "coffee-script": "1.6.x"
+    }
+
+}
