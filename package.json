@@ -7,7 +7,7 @@
         "url": "http://github.com/tchannel/phaser-coffeescript"
     },
     "dependencies": {
-        "photonstorm/phaser":"git://github.com/photonstorm/phaser#1.0.5"  
+        "photonstorm/phaser":"git://github.com/tchannel/phaser#source-maps-and-stuff"  
     },
     "devDependencies": {
         "coffee-script": "1.6.x",
